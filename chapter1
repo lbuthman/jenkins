@@ -1,1 +1,10 @@
+- Hudson might be better for Maven integration since it is part of Oracle and Sonatype?
 
+- Basic CI maturity
+  Phase 1 -> no build server
+  Phase 2 -> nightly builds (no automated testing)
+  Phase 3 -> nightly builds and basic automated tests
+  Phase 4 -> automated code quality and coverage metrics available
+  Phase 5 -> Test Driven Development practices
+  Phase 6 -> Acceptance Test Driven Development and Behavior Driven Development practices
+  Phase 7 -> with automated unit, integration, and acceptance tests, Automated Deployment can be practiced.
