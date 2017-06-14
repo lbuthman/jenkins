@@ -1,1 +1,12 @@
-
+- Build job types
+  -- Freestyle software project
+  -- Maven project
+  -- Monitor an external job
+  -- Multiconfiguration job
+  
+- Freestyle software project
+  -- name -> will be used for project directory and build job URL
+  -- project description -> will go on the project home page - HTML is fine
+  -- Discard Old Builds -> manage disk space and artifacts
+  
+- In its most basic role, a CI server monitors your VCS and checks out the latest changes as they occur.
